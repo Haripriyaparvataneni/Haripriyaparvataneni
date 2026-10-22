@@ -1,12 +1,17 @@
-<!---
-Replace YOUR-USERNAME with your GitHub username, and name this repo exactly
-the same as your username — that's what makes GitHub show it on your profile.
--->
-
 # Hi, I'm Hari Priya 👋
 
-AI PhD student (expected 2030) with 5 years of experience in backend development, data analytics, and applied machine learning — including LLMs, demand forecasting, and analytics.
+I'm a PhD student in AI (graduating 2030), and before starting my PhD I spent about 5 years working as a software developer and data analyst. Most of my work sat somewhere between backend code, SQL, and reporting — and over time I kept drifting towards the ML side of things, which is pretty much why I ended up doing a PhD in it.
 
-Currently exploring **LLMs, agentic workflows, and ML systems**.
+These days I'm mostly playing with LLMs, agents, and how ML models actually get used in real products ( not just in notebooks ).
 
-🌱 Open to **AI internships and entry-level AI roles** — remote or anywhere in the U.S.
+Some of the things I've built here:
+
+- Demand forecasting with XGBoost
+- Customer segmentation with RFM + K-Means
+- Anomaly detection with Isolation Forest
+- A small text-to-SQL assistant using LangChain
+- A FastAPI service that serves an ML model
+
+I'm looking for AI internships and entry-level AI roles — remote, or anywhere in the US. Happy to relocate.
+
+You can also find me here: [LinkedIn](https://www.linkedin.com/in/parvataneni007) · [My portfolio site](https://haripriyaparvataneni.github.io/Portfolio/)
